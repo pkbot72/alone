@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/Sursa2929/BishnoiTXT3",
-    "success_url": "https://t.me/thebishnoi29_bot",
+    "repository": "https://github.com/aloneboy121/BishnoiTXT3",
+    "success_url": "https://t.me/Alon11124",
     "stack": "container",
     "env": {
         "API_ID": {
